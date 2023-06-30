@@ -1,0 +1,33 @@
+body {
+  font-family:"Times New Roman";
+  background-color: lightblue;
+}
+
+h1 {
+  font-family:"Arial";
+  text-align: center;
+  color: lightblue;
+}
+
+p1 {
+  font-family:"Times New Roman";
+}
+
+p {
+  font-family:"Times New Roman";
+}
+
+.header {
+  background-color: black;
+  border: .1px solid white
+}
+
+.info {
+  text-align: center;
+  font-size: 20px;
+}
+
+h2 {
+  text-decoration: underline;
+  text-decoration-color: black;
+}
